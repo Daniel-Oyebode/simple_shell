@@ -102,4 +102,5 @@
 
 ## Authors
 
-- iADaniel Oyeoeodeo0👾
+- Daniel Oyeoeodee
+- Kriegler Lawoko
